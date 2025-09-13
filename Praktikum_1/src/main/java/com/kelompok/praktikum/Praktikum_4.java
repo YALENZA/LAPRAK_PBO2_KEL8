@@ -85,7 +85,7 @@ public class Praktikum_4 {
         System.out.println("---Mencetak nomor kursi bioskop---");
         char kursi = 'A';
         for (int i = 0; i < 3; i++){
-            for (int j = i; j < 5; j++){
+            for (int j = 1; j < 5; j++){
                 System.out.println(kursi + "" + j + "");
             }
             System.out.println();
@@ -108,3 +108,4 @@ public class Praktikum_4 {
         }
     }
 }
+
