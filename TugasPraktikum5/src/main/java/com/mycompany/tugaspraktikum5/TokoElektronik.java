@@ -6,7 +6,7 @@ package com.mycompany.tugaspraktikum5;
 
 /**
  *
- * @author LENOVO
+ * @author Rifqi
  */
 public class TokoElektronik {
     String namaProduk;
@@ -46,3 +46,4 @@ public class TokoElektronik {
         }
     }
 }
+
