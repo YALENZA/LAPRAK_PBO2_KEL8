@@ -10,7 +10,7 @@ package com.mycompany.tugaspraktikum5;
  */
 public class TugasPraktikum5 {
     public static void main(String[] args) {
-        TokoElektronik produkSatu = new TokoElektronik("Laptop", "ASUS", 12500000.0);
+        TokoElektronik produkSatu = new TokoElektronik("Laptop", "ASUS", 1000000.0);
         TokoElektronik produkDua = new TokoElektronik("Smartphone", "Samsung");
         TokoElektronik produkTiga = new TokoElektronik();
         
