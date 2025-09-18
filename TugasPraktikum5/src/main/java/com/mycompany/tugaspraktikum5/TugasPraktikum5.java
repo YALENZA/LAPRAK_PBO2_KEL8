@@ -6,7 +6,7 @@ package com.mycompany.tugaspraktikum5;
 
 /**
  *
- * @author LENOVO
+ * @author Rifqi
  */
 public class TugasPraktikum5 {
     public static void main(String[] args) {
